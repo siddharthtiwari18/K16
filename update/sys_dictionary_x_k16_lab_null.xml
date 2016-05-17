@@ -51,17 +51,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-17 17:53:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>48aef8c0a12312007f4455099eae5568</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>98638d04a12312007f4455099eae557d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_k16_lab</sys_name>
         <sys_package display_value="K16" source="x_k16">db9e74c0a12312007f4455099eae55c9</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16">db9e74c0a12312007f4455099eae55c9</sys_scope>
-        <sys_update_name>sys_dictionary_x_k16_lab_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-17 17:53:45</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_k16_lab_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-05-17 18:14:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
